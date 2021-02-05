@@ -45,6 +45,14 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.txt.meta
+*.mat.meta
+*.shader.meta
+*.unity.meta
+*.unitypackage.meta
+*.cs.meta
+*.asset.meta
+*.prefab.meta
 *.meta
 
 # Unity3D generated file on crash reports
