@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b003fbdd6743c1e4685518f1e07f083e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - vTMEditorSettings: {fileID: 11400000, guid: 219c7d59357ec0a408295972463fd322,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
