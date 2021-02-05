@@ -6,4 +6,5 @@ To Access the tool window, go to the 'Tools > CS View Tool Manager', this should
 
 Finally, to run the tool, press play.
 
-If you require further assistance contact Corey Swankie at : 1402382@abertay.ac.uk
+If you require further assistance contact Corey Swankie at : thatscorey@gmail.com
+Find more at CoreySwankie.Com
